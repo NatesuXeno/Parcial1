@@ -1,0 +1,25 @@
+.ocultar{
+    visibility: hidden;
+}
+
+.ver{
+    visibility: visible;
+}
+
+.azul{
+    color:blue;
+    border: 2px solid black;
+}
+
+.rojo{
+    color:red;
+}
+.container{
+    padding:3px;
+    margin:5px;
+    width: 80%;
+}
+.card{
+    margin: 5px;
+    border: 3px black solid;
+}
